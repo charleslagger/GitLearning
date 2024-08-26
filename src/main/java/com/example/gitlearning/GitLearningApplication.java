@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitLearningApplication {
 
     public static void main(String[] args) {
-        System.out.println("Commit rebase 2");
+        System.out.println("Commit main");
         SpringApplication.run(GitLearningApplication.class, args);
     }
 
